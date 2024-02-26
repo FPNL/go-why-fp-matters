@@ -1,4 +1,4 @@
-package main
+package fp
 
 var sum = reduce[int](add, 0)
 var product = reduce[int](multiply, 1)

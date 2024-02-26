@@ -1,4 +1,4 @@
-package main
+package fp
 
 type _cons[T any] struct {
 	a T
